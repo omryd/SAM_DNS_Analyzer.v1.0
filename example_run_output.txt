@@ -1,0 +1,23 @@
+C:\Users\User\PycharmProjects\.venv\Scripts\python.exe C:\Users\User\PycharmProjects\firstPythonProject\SAM_DNS_Analyzer\src\main.py --pcap C:\temp\test_capture.pcap 
+Starting DNS Reputation Analysis...
+PCAP File: C:\temp\test_capture.pcap
+Timeout: No limit seconds
+Press Ctrl+C to stop
+
+Extracting DNS queries from PCAP...
+Found 6 unique domains
+Starting reputation lookups...
+Processing domains: 100%|██████████| 6/6 [00:00<00:00, 10.18it/s]
+
+Results saved to dns_reputation_results_20250825_143509.csv
+
+==================================================
+Test is over! Reason: completed
+Total runtime: 0.7 seconds
+Requests total: 6
+Domains processed: 6
+Average response time: 564 ms
+Max response time: 0.6 sec
+==================================================
+
+Process finished with exit code 0

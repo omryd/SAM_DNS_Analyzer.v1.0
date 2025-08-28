@@ -1,0 +1,7 @@
+domain,reputation,classification,categories,query_source,response_time
+www.linkedin.com,38,Untrusted,social,PCAP,353.135347366333
+waa-pa.clients6.google.com,79,Trusted,porn,PCAP,340.2731418609619
+www.linkedin.com.cdn.cloudflare.net,61,Trusted,social,PCAP,356.85276985168457
+ssl.gstatic.com,63,Trusted,porn,PCAP,347.94139862060547
+cf-afd.www.linkedin.com,6,Untrusted,phising,PCAP,382.42363929748535
+play.google.com,51,Untrusted,general,PCAP,377.57253646850586
