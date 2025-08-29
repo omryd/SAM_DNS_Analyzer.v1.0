@@ -16,7 +16,7 @@ A high-performance DNS traffic analysis system that replays PCAP files, extracts
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/omryd/SAM_DNS_Analyzer
+git clone https://github.com/omryd/SAM_DNS_Analyzer.v.1.0
 cd SAM_DNS_Analyzer
 ```
 
